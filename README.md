@@ -1,0 +1,1 @@
+### A simple application to understand how to send data from backend to front end using OpenCV and Flask
